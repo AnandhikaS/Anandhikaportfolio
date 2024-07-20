@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/anandhikaportfolio/static/css/main.98ddc713.css",
+    "main.js": "/anandhikaportfolio/static/js/main.d01853b1.js",
+    "static/media/HeroImage.jpg": "/anandhikaportfolio/static/media/HeroImage.83a813252a0af86c1e94.jpg",
+    "index.html": "/anandhikaportfolio/index.html",
+    "main.98ddc713.css.map": "/anandhikaportfolio/static/css/main.98ddc713.css.map",
+    "main.d01853b1.js.map": "/anandhikaportfolio/static/js/main.d01853b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ddc713.css",
+    "static/js/main.d01853b1.js"
+  ]
+}
